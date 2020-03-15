@@ -15,8 +15,8 @@ template = {
     "branch": "deploy"
 }
 enable_jsdelivr = {
-    "enabled": False,
-    "repo": ""
+    "enabled": True,
+    "repo": "oxcz/oxcz.github.io@master"
 }
 
 # 站点设置
