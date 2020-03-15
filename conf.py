@@ -3,7 +3,7 @@
 """
 
 # For Maverick
-site_prefix = "/Blog-With-GitHub-Boilerplate/"
+site_prefix = "/oxcz.github.io/"
 source_dir = "../src/"
 build_dir = "../dist/"
 index_page_size = 10
@@ -20,7 +20,7 @@ enable_jsdelivr = {
 }
 
 # 站点设置
-site_name = "世界"
+site_name = "无题"
 site_logo = "${static_prefix}logo.png"
 site_build_date = "2020-03-15T00:00+08:00"
 author = "oxcz"
