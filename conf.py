@@ -29,6 +29,11 @@ description = "在不确定的世界中寻找确定性。"
 key_words = ['Maverick', 'oxcz', 'blog']
 language = 'zh-CN'
 external_links = [
+    {
+        "name": "三無計劃",
+        "url": "https://www.imalan.cn",
+        "brief": "熊猫小A的主页。"
+    }
 ]
 nav = [
     {
