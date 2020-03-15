@@ -64,8 +64,8 @@ social_links = [
 valine = {
     "enable": True,
     "el": '#vcomments',
-    "appId": ${{ secrets.appId }},
-    "appKey": ${{ secrets.appKey }},
+    "appId": "gbbC4N1LA2g0de3xvrSW4YIt-gzGzoHsz",
+    "appKey": "NCmDHdon0NTSU0Uhnpv1QI3f",
 }
 
 head_addon = r'''
