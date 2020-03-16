@@ -5,10 +5,10 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	
 
 <url>
-    <loc>/about/</loc>
-    <lastmod>2017-06-28</lastmod>
+    <loc>/archives/redis/</loc>
+    <lastmod>2020-03-16</lastmod>
     <changefreq>always</changefreq>
-    <priority>0.8</priority>
+    <priority>0.5</priority>
 </url>
 
 </urlset>
