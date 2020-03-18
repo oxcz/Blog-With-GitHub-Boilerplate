@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN"><id>/</id><title>无题</title><updated>2020-03-18T01:49:50.410116+08:06</updated><author><name>oxcz</name><email>czmz@foxmail.com</email></author><link href="/" rel="alternate"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><logo>https://cdn.jsdelivr.net/gh/oxcz/oxcz.github.io@master/logo.png</logo><subtitle>在不确定的世界中寻找确定性。</subtitle><entry><id>/archives/redis/</id><title>Redis使用</title><updated>2020-03-18T01:49:50.410252+00:00</updated><author><name>oxcz</name><email>czmz@foxmail.com</email><uri>https://oxcz.github.io</uri></author><content>&lt;p&gt;Redis建立外网可访问，第一步关闭Bind绑定配置，第二步关闭保护模式。这样配置后可以在外网访问到。如果是云服务器还需要开启防火墙配置。
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN"><id>/</id><title>无题</title><updated>2020-03-18T04:41:28.228518+08:06</updated><author><name>oxcz</name><email>czmz@foxmail.com</email></author><link href="/" rel="alternate"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><logo>https://cdn.jsdelivr.net/gh/oxcz/oxcz.github.io@master/logo.png</logo><subtitle>在不确定的世界中寻找确定性。</subtitle><entry><id>/archives/redis/</id><title>Redis使用</title><updated>2020-03-18T04:41:28.228670+00:00</updated><author><name>oxcz</name><email>czmz@foxmail.com</email><uri>https://oxcz.github.io</uri></author><content>&lt;p&gt;Redis建立外网可访问，第一步关闭Bind绑定配置，第二步关闭保护模式。这样配置后可以在外网访问到。如果是云服务器还需要开启防火墙配置。
 暂时不太确定这样的操作步骤是否正规，还不太确定。&lt;/p&gt;
 &lt;p&gt;待后续学习补充修改。&lt;/p&gt;
-</content><link href="/archives/redis/" rel="alternate"/><published>2020-03-16T10:39:00+08:06</published></entry><entry><id>/archives/knowledge-management/</id><title>知识管理方案落地实践</title><updated>2020-03-18T01:49:50.410195+00:00</updated><author><name>oxcz</name><email>czmz@foxmail.com</email><uri>https://oxcz.github.io</uri></author><content>&lt;h1&gt;阅读完了少数派的信息管理课程&lt;/h1&gt;
+</content><link href="/archives/redis/" rel="alternate"/><published>2020-03-16T10:39:00+08:06</published></entry><entry><id>/archives/knowledge-management/</id><title>知识管理方案落地实践</title><updated>2020-03-18T04:41:28.228636+00:00</updated><author><name>oxcz</name><email>czmz@foxmail.com</email><uri>https://oxcz.github.io</uri></author><content>&lt;h1&gt;阅读完了少数派的信息管理课程&lt;/h1&gt;
 &lt;p&gt;目前信息的收集问题不太大，问题主要在于后面将信息整理输出的部分。
 整个教程是一个完整的信息处理流程。
 从收集、处理、整理、检索、输出、到内化。
@@ -26,4 +26,5 @@ pocket
 这几天也开始记日记，Day One是一个比较好的软件来记录生活。
 记日记是不是也算是一种输出。
 现在博客上面写的文章都比较断断续续不是很完整。但都会一点一点完善的，通过git记录下来完善的记录。&lt;/p&gt;
-</content><link href="/archives/knowledge-management/" rel="alternate"/><published>2020-03-18T09:50:00+08:06</published></entry></feed>
+</content><link href="/archives/knowledge-management/" rel="alternate"/><published>2020-03-18T09:50:00+08:06</published></entry><entry><id>/archives/record-expenses/</id><title>如何记账</title><updated>2020-03-18T04:41:28.228577+00:00</updated><author><name>oxcz</name><email>czmz@foxmail.com</email><uri>https://oxcz.github.io</uri></author><content>&lt;p&gt;最近在使用Moneywiz进行记账。有两个比较不错的学习资源，一个是少数派上面的记账专栏，这个重点是如何使用Moneywiz，还有一个就是也谈钱的公众号，这个公众号上能学到一些关于预算等知识。&lt;/p&gt;
+</content><link href="/archives/record-expenses/" rel="alternate"/><published>2020-03-18T12:37:00+08:06</published></entry></feed>
